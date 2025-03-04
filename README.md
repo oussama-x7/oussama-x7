@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Oussama Bouziane <br>- 👀 I’m interested in Software development<br>- 🌱 I’m currently learning  C++ .<br>- 📫 How to reach me bouzinaeoussama279@gmail.com<br>- ⚡ Fun fact: I'm a just a  begginer enjoy coding . 
+- 👋 Hi, I’m Oussama Bouziane <br>- 👀 I’m interested in Software development<br>- 🌱 I’m currently learning  C++ .<br>- 📫 How to reach me bouzinaeoussama279@gmail.com<br>- ⚡ Fun fact: I'm a just a  begginer enjoy coding 😊. 
 
 
 ## 🌐 Socials:
